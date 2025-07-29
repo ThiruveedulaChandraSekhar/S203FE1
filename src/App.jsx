@@ -28,7 +28,7 @@ function App() {
           <Route index element={<AboutUs />} />
           <Route path="home" element={<Home />} />
           <Route path="about-us" element={<AboutUs />} />
-          <Route path="computers" element={<Computers />} />
+          <Route path="computers" element={<Computerssssssssss />} />
           <Route path="mobiles" element={<Mobiles />} />
           <Route path="laptops" element={<Laptops />} />
           <Route path="pendrives" element={<Pendrives />} />
